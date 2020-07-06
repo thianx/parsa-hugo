@@ -1,4 +1,4 @@
-baseURL = "https://mystifying-mahavira-fe2a3e.netlify.com"
+baseURL = "https://mystifying-mahavira-fe2a3e.netlify.app/"
 languageCode = "en-us"
 paginate = 6
 summaryLength = "10"

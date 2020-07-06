@@ -1,6 +1,6 @@
 baseURL = "https://mystifying-mahavira-fe2a3e.netlify.com"
 languageCode = "en-us"
-paginate = 6
+paginate = "10"
 summaryLength = "10"
 theme = "parsa-hugo"
 title = "Parsa Hugo | Personal Blog Template"
